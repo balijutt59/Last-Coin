@@ -1,0 +1,16 @@
+[
+  {
+    "Wallet":"0x5dd8029033ab24005f69ac51a61099b60992fca4",
+    "Email":"test@mail.com",
+    "Points":"10",
+    "ReferralCode":"REF123",
+    "ReferredBy":""
+  },
+  {
+    "Wallet":"0xabcdef1234567890",
+    "Email":"user2@mail.com",
+    "Points":"15",
+    "ReferralCode":"REF456",
+    "ReferredBy":"REF123"
+  }
+]
